@@ -1,2 +1,2 @@
-# customer-repo-template
-Template for customer repo
+# HPE
+HPE customer repo
